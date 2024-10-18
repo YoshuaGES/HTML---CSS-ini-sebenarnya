@@ -1,0 +1,14 @@
+.container {
+  height: 100vh;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+fieldset:hover {
+  background-color: white;
+  cursor: pointer;
+  box-shadow: 8px 7px 5px 8px rgba(30, 20, 40, 30);
+  border: 2px solid yellow;
+}

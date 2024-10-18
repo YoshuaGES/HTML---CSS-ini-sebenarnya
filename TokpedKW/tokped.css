@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+.container {
+    justify-content: center;
+    background-color: antiquewhite;
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+
+.sepatu,
+.topi,
+.jam,
+.sarung {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+img {
+    width: auto;
+}
+
+h2 {
+    padding: 10px;
+}
+
+p {
+    padding: 10px;
+}

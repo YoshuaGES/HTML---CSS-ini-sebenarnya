@@ -1,0 +1,26 @@
+.container {
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+.menu {
+    background-color: yellow;
+    display: flex;
+    gap: 20px;
+}
+
+.home,
+.profile,
+.aboutus {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    justify-content: be;
+}
